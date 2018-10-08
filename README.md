@@ -1,5 +1,5 @@
 # Digit_Recognition
-This is a machine learning project where we will predict handwritten digits using sklearn.dataset
+This is a machine learning project where we will predict handwritten digits using sklearn.datasets
 
 The output for the following image is:
 Predicted Value: [7]
